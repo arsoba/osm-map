@@ -1,0 +1,22 @@
+{
+    "options": {
+      "frontPage": false,
+      "paths": {
+        "root": "",
+        "fonts": "fonts",
+        "sprites": "styles",
+        "styles": "styles",
+        "mbtiles": ""
+      }
+    },
+    "styles": {
+      "osm-bright": {
+        "style": "style.json"
+      }
+    },
+    "data": {
+      "v3": {
+        "mbtiles": "tiles.mbtiles"
+      }
+    }
+  }
